@@ -2,9 +2,9 @@
     "shell-version": [
         "3.32"
     ],
-    "uuid": "audio-output-switcher@anduchs",
-    "name": "Audio Output Switcher",
-    "description": "Adds a switch for choosing audio output to the system menu.",
-    "url": "http://github.com/adaxi/audio-output-switcher",
-    "settings-schema": "org.gnome.shell.extensions.audio-output-switcher"
+    "uuid": "audio-panel@wildboarinteractive",
+    "name": "Enhanced GNOME Audio Panel",
+    "description": "Adds enhanced functionality to the Gnome Shell volume control",
+    "url": "https://github.com/wildboardinteractive/audio-panel",
+    "settings-schema": "org.gnome.shell.extensions.audio-panel"
 }
