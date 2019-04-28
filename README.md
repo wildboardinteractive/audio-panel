@@ -2,7 +2,7 @@ Gnome-Shell Extension Audio-Panel
 ===========================================
 
 This extension allows you to control the volume of multiple output ports 
-on a single device, or change devices rapidly. It is based on Audio-Output-Switcher
+on a single device, or change devices more easily. It is based on Audio-Output-Switcher
 by @anduchs.
 
 https://github.com/adaxi/audio-output-switcher
